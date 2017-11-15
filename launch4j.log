@@ -1,0 +1,27 @@
+
+
+Version:	3.10
+CmdLine:	C:\Users\Admin\eclipse-workspace\RootsCalculator.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Admin\eclipse-workspace\.
+Java min ver:	1.8.0
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_151
+Check launcher:	D:\Program Files\Java\jre1.8.0_151\bin\javaw.exe (OK)
+Match:		1.8.0_151
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+Check:		SOFTWARE\JavaSoft\JRE\9
+Check launcher:	D:\Program Files\Java\jre-9\bin\javaw.exe (OK)
+Match:		9
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\9
+Ignore:		9
+Runtime used:	9 (64-bit)
+Launcher:	D:\Program Files\Java\jre-9\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Admin\eclipse-workspace\RootsCalculator.exe"
+Args length:	59/32768 chars
+Exit code:	0
